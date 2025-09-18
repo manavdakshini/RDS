@@ -59,7 +59,7 @@ In this task, you will be creating an EC2 instance in the public subnet of your 
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
   
-<validation step="9645e1b1-65fd-4e7e-aab1-812e22a74ff8" /> 
+<validation step="84722bec-71f0-477d-a002-2ab0ec04bdd2" /> 
 
 ## Task 2: Create an an Amazon RDS database
 
