@@ -126,6 +126,6 @@ In this task, you will create an an Amazon RDS database in the same VPC as your 
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
   
-<validation step="ee293458-e179-431f-a95c-60b3e398d5ea" /> 
+<validation step="eaf8ad50-51ba-4236-bc7b-61d11fc25d40" /> 
 
 **In this exercise, you have successfully created an EC2 instance as well as an RDS MySQL Instance with proper configuration to connect it to your Web Server instance.**
