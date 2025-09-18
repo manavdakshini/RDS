@@ -2,34 +2,34 @@
     {
       "Name": "Connecting an AWS RDS DB Instance to EC2",
       "Language": "English",
-      "BaseURL": "https://github.com/CloudLabsAI-Azure/AustinCC",
+      "BaseURL": "https://github.com/manavdakshini/RDS",
       "Files": [
         {
-          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/refs/heads/RDS-Lab/RDS/Introductionec2.md",
+          "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/RDS/refs/heads/RDS/Introductionec2.md",
           "Order": 1
         },
         {
-          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/refs/heads/RDS-Lab/RDS/IntroductionRDS.md",
+          "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/RDS/refs/heads/RDS/IntroductionRDS.md",
           "Order": 2
         },
         {
-          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/refs/heads/RDS-Lab/RDS/GettingStarted.md",
+          "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/RDS/refs/heads/RDS/GettingStarted.md",
           "Order": 3
         }, 
         {
-          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/refs/heads/RDS-Lab/RDS/Overview.md",
+          "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/RDS/refs/heads/RDS/Overview.md",
           "Order": 4
         },
         {
-          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/refs/heads/RDS-Lab/RDS/Exercise-1.md",
+          "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/RDS/refs/heads/RDS/Exercise-1.md",
           "Order": 5
         },
         {
-          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/refs/heads/RDS-Lab/RDS/Exercise-2.md",
+          "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/RDS/refs/heads/RDS/Exercise-2.md",
           "Order": 6
         },
         {
-          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/refs/heads/RDS-Lab/RDS/Exercise-3.md",
+          "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/RDS/refs/heads/RDS/Exercise-3.md",
           "Order": 7
         } 
       ]
