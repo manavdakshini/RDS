@@ -246,13 +246,6 @@ In this task, you will add content to your Apache web server to display a page f
 
     ![](./media/sample-page.png)
 
-> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - Hit the Validate button for the corresponding task. If you receive a success message, you have successfully validated the lab. 
-> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-  
-<validation step="a3bc3c6b-656b-4d57-ba8f-cf3d91ed741d" /> 
-
 ## Task 3: Create entries into the table in the database through Web server
 
 After you have created **SamplePage.php** in the **Apache web serevr**, it can be used to add data to your DB instance. The data that you add is then displayed on the page. To verify that the data was inserted into the table, MySQL client can be used on the Amazon EC2 instance to connect to the DB. In this task, you will create enteries in the web server page and add data in the MySQL database instance by following the given steps:
