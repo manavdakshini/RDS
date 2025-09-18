@@ -1,0 +1,30 @@
+[
+    {
+      "Name": "Connecting an AWS RDS DB Instance to EC2",
+      "Language": "English",
+      "BaseURL": "https://github.com/CloudLabsAI-Azure/AustinCC",
+      "Files": [
+        {
+          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/main/RDS/GettingStarted.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/main/RDS/Overview.md",
+          "Order": 2
+        },
+        {
+          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/main/RDS/Exercise-1.md",
+          "Order": 3
+        },
+        {
+          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/main/RDS/Exercise-2.md",
+          "Order": 4
+        },
+        {
+          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/main/RDS/Exercise-3.md",
+          "Order": 5
+        }
+  
+      ]
+    }
+  ]
