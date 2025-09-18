@@ -4,7 +4,7 @@
 
 Amazon Elastic Compute Cloud (EC2) is a web service that provides resizable compute capacity in the cloud. It is designed to make it easier for developers to run and scale applications by providing a virtual server, known as an instance, that can be easily managed. EC2 instances allow you to host your applications, store data, and create scalable environments based on your needs.
 
-<inline-video source="https://youtu.be/eo0sp1xzYCY?si=Bs8rHJPXyOzGPFWE"/>
+<inline-video source="https://youtu.be/0uprEe_uCgc"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Setting Up and Launching Amazon EC2 Instances
