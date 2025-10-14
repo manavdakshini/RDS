@@ -59,7 +59,7 @@ In this task, you will be creating an EC2 instance in the public subnet of your 
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
   
-<validation step="84722bec-71f0-477d-a002-2ab0ec04bdd2" /> 
+<validation step="9718c0a7-2fc7-4d4e-a0ec-72fa7e8c024f" /> 
 
 ## Task 2: Create an an Amazon RDS database
 
@@ -126,6 +126,6 @@ In this task, you will create an an Amazon RDS database in the same VPC as your 
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
   
-<validation step="eaf8ad50-51ba-4236-bc7b-61d11fc25d40" /> 
+<validation step="3538d95a-4daa-4cbf-ad9f-7d3abe7af4d1" /> 
 
 **In this exercise, you have successfully created an EC2 instance as well as an RDS MySQL Instance with proper configuration to connect it to your Web Server instance.**
